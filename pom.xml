@@ -19,5 +19,12 @@
             <artifactId>json-simple</artifactId>
             <version>4.0.1</version>
         </dependency>
+             
+             <!-- Oracle JDBC Driver -->
+        <dependency>
+            <groupId>com.oracle.database.jdbc</groupId>
+            <artifactId>ojdbc11</artifactId>
+            <version>19.3.0.0</version>
+        </dependency>
     </dependencies>
 </project>
