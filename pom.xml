@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>ch.hearc.heg.scl</groupId>
-    <artifactId>S3-Ex1-Serial-Meteo</artifactId>
+    <artifactId>S3-Ex2-Serial-Meteo</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <properties>
